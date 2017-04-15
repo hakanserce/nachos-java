@@ -14,7 +14,7 @@ Information on the original Nachos can be found here: https://users.cs.duke.edu/
 1. Install Virtual Box
 2. Install Vagrant
 3. Setup a minimal Ubuntu Vagrant box (this will do: https://atlas.hashicorp.com/minimal/boxes/trusty64)
-4. Install mips cross compiler on the box (follow this: http://sathisharada.blogspot.com/)
+4. Install mips cross compiler on the box (download from http://inst.eecs.berkeley.edu/~cs162/fa13/Nachos/xgcc/)
 
 
 # Additional Resources
