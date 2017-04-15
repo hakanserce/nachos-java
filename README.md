@@ -17,4 +17,9 @@ Information on the original Nachos can be found here: https://users.cs.duke.edu/
 4. Install mips cross compiler on the box (follow this: http://sathisharada.blogspot.com/)
 
 
+# Additional Resources
+* http://www.cas.mcmaster.ca/~rzheng/course/Nachos_Tutorial/nachos.html#nachosse2.html
+
+
+
 
